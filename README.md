@@ -18,7 +18,7 @@
 ## My Skill Set 
 <div align="center">
 <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" height="40" /> <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML" height="40" /> <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40"/>
 </div>
 <br> 
