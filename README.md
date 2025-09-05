@@ -1,5 +1,5 @@
-# I'm Rayssa, a full-time full-stack developer 👨‍💻
-### I’m a programming student, 20 years old, and constantly learning.
+# My social name is Cael, a full-time full-stack developer 👨‍💻
+### I’m a programming student, 20 years old, and constantly learning. 
 
 
 ## Connect with me  
