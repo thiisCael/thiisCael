@@ -1,4 +1,4 @@
-# My social name is Cael, a full-time full-stack developer 👨‍💻
+# My name is Cael, a full-time full-stack developer 👨‍💻
 ### I’m a programming student, 20 years old, and constantly learning. 
 
 
