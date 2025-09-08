@@ -22,6 +22,6 @@
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40"/>
 </div>
 <br> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devrayssa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thiisCael&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
