@@ -4,7 +4,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://www.linkedin.com/in/rayssa-souza-inocencio-9bb059303/" target="_blank">
+<a href="https://www.linkedin.com/in/devcael/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.io/cael-inocencio" target="_blank">
