@@ -1,27 +1,56 @@
-# My name is Cael, a full-time full-stack developer 👨‍💻
-### I’m a programming student, 20 years old, and constantly learning. 
+# Olá, eu sou o Cael! 👋
 
+### Desenvolvedor Full Stack | Java & JavaScript
 
-## Connect with me  
-<div align="center">
-<a href="https://www.linkedin.com/in/devcael/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.io/cael-inocencio" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/cael-inocencio" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-</div>  
+Sou um desenvolvedor de 20 anos, estudante de Engenharia de Software e focado em construir soluções que resolvem problemas reais. Atualmente, estou aprofundando meus conhecimentos no ecossistema **Java** e **Node.js**, desenvolvendo sistemas de gestão e automação para pequenos negócios.
 
-## My Skill Set 
-<div align="center">
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" height="40" /> <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML" height="40" /> <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40"/>
+Minha abordagem une a disciplina técnica com a visão de negócio, buscando sempre código limpo e escalável.
+
+---
+
+### 🚀 O que estou fazendo agora
+
+- 💈 **Sistema de Gestão para Barbearia:** Desenvolvendo um MVP completo com controle de estoque local e backup em nuvem.
+- 📦 **Controle de Estoque:** Criando uma aplicação robusta para gerenciamento de inventário.
+- 🎓 **Formação:** Aprimorando skills através do programa *Programadores do Amanhã* e faculdade de Engenharia de Software.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" style="margin: 0 10px 0 0;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" style="margin: 0 10px 0 0;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" style="margin: 0 10px 0 0;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" style="margin: 0 10px 0 0;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" style="margin: 0 10px 0 0;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" style="margin: 0 10px 0 0;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" style="margin: 0 10px 0 0;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" style="margin: 0 10px 0 0;" />
 </div>
-<br> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thiisCael&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br/>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <a href="https://github.com/thiisCael">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiisCael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiisCael&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Construindo o futuro, uma linha de código por vez.</sub>
+  <br/>
+  <a href="https://www.linkedin.com/in/devcael" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:cael.inocenciio@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
