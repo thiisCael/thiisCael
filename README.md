@@ -35,12 +35,8 @@ Minha abordagem une a disciplina técnica com a visão de negócio, buscando sem
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<div align="center">
-  <a href="https://github.com/thiisCael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiisCael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiisCael&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=thiisCael&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiisCael&layout=compact&theme=tokyonight)
 
 ---
 
