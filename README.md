@@ -33,13 +33,6 @@ Minha abordagem une a disciplina técnica com a visão de negócio, buscando sem
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=thiisCael&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiisCael&layout=compact&theme=tokyonight)
-
----
-
 <div align="center">
   <sub>Construindo o futuro, uma linha de código por vez.</sub>
   <br/>
